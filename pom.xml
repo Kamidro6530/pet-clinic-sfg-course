@@ -48,8 +48,6 @@
 	</build>
 
 	<scm>
-		<url>scm:git:file://d:/Research/.git</url>
-		<connection>scm:git:file://d:/Research/.git</connection>
-		<developerConnection>scm:git:file://d:/Research/.git</developerConnection>
+		<developerConnection>scm:git:https://github.com/Kamidro6530/pet-clinic-sfg-course.git</developerConnection>
 	</scm>
 </project>
